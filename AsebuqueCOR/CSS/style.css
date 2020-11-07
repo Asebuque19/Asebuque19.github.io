@@ -1,0 +1,22 @@
+body{
+    margin:60px;
+    background:white;
+    font-size:12px;
+    font-style:normal;
+}
+caption{
+    color:red;
+    text-align:left;
+    margin:10px;
+}
+tr{
+    word-spacing:5px;
+    text-align:left;
+}
+.title1{
+    text-align:center;
+    background:rgb(190, 159, 197);
+}
+.title2{
+    background:rgb(226, 176, 226);
+}
